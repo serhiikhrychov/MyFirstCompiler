@@ -1,2 +1,2 @@
 # MyFirstCompiler
-this is the compiler for my prog language 
+This is the compiler for my programming language with ANTLR in C#
